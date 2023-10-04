@@ -5,7 +5,7 @@ All of these wallpapers are licensed under the [CC BY-SA 4.0 Deed](https://creat
 
 This repo is still in development. Hold tight.
 
-## Contributos and Source Material
+## Contributors and Source Material
 
 ### @samuelgrf
 
