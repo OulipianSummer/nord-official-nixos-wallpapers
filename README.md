@@ -11,8 +11,3 @@ This repo is still in development. Hold tight.
 
   * CC BY-SA 4.0 (by nixos-artwork)
       * `source/nix-wallpaper-nineish-*.svg`
-
-## @ericdallo
-
-  * CC BY-SA 4.0 (by nixos-artwork)
-      * `source/nix-wallpaper-dracula.png`
