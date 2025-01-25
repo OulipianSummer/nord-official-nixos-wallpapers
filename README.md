@@ -1,4 +1,5 @@
 # nord-official-nixos-wallpapers
+Migrated to: [https://codeberg.org/amb/nord-official-nixos-wallpapers](https://codeberg.org/amb/nord-official-nixos-wallpapers)
 A nord theme spin of some of the official NixOS wallpapers.
 
 All of these wallpapers are licensed under the [CC BY-SA 4.0 Deed](https://creativecommons.org/licenses/by-sa/4.0/)
